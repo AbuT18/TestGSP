@@ -2,3 +2,5 @@
 2.Enter Username & Password
 3.Sign in
 4.If not active account in GH Create new one
+5.First work inititated code updated.
+6.Code 01 updated successfully
