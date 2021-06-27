@@ -1,3 +1,4 @@
 1.Start the application
 2.Enter Username & Password
 3.Sign in
+4.If not active account in GH Create new one
